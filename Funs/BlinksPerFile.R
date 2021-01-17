@@ -11,7 +11,7 @@ BlinksPerFile <-
 #
 #    Description:
 #        
-#    Designed to be called by script CustomBlinkCode.R.
+#    Designed to be called by script DetectBlinks_Script.R.
 #
 #    Return a list of that contains the blink rate (blinks per minute) and other
 #    variables for each participant for each study day. This file sends each 
